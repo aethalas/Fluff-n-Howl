@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img src="../assets/header.png">
+    <img src="../assets/fnh.gif">
   </div>
 </template>
 
